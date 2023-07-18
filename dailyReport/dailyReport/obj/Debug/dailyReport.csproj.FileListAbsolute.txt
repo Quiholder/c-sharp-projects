@@ -1,0 +1,14 @@
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\bin\Debug\dailyReport.exe.config
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\bin\Debug\dailyReport.exe
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\bin\Debug\dailyReport.pdb
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\obj\Debug\dailyReport.exe
+C:\Users\17049\OneDrive\Documents\GitHub\basicc#programs\dailyReport\dailyReport\obj\Debug\dailyReport.pdb
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\bin\Debug\dailyReport.exe.config
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\bin\Debug\dailyReport.exe
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\bin\Debug\dailyReport.pdb
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\obj\Debug\dailyReport.exe
+C:\Users\17049\OneDrive\Documents\GitHub\c-sharp-projects\dailyReport\dailyReport\obj\Debug\dailyReport.pdb
