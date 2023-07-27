@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\Student\source\repos\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb
