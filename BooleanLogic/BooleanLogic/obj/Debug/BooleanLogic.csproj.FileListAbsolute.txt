@@ -9,3 +9,6 @@ C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\obj
 C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
 C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
 C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb

@@ -24,7 +24,7 @@ namespace BooleanLogic
             int speedTicket = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
 
-            bool canGetIns = (yourAge >= 15 anyDui && speedTicket < 3);
+            bool canGetIns = (yourAge > 15 && anyDui == false && speedTicket < 3);
             Console.WriteLine("Are you qualified? " + canGetIns);
             Console.ReadLine();
 
