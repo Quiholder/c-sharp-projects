@@ -15,8 +15,8 @@ namespace BooleanLogic
             Console.WriteLine("your age is: " + yourAge);
             Console.ReadLine();
 
-            Console.WriteLine("have you ever had a dui?");
-            bool anyDui = false;
+            Console.WriteLine("have you ever had a dui? true or false");
+            bool anyDui = Convert.ToBoolean(Console.ReadLine());
             Console.ReadLine();
             
 
@@ -24,7 +24,7 @@ namespace BooleanLogic
             int speedTicket = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
 
-            bool canGetIns = (yourAge > 15 && anyDui == false && speedTicket < 3);
+            bool canGetIns = (yourAge > 15 && anyDui == false && speedTicket <= 3);
             Console.WriteLine("Are you qualified? " + canGetIns);
             Console.ReadLine();
 
