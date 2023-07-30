@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.exe
+C:\Users\Student\source\repos\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.pdb
