@@ -13,9 +13,12 @@ namespace PackageExpress
             Console.WriteLine("What is the package weight?");
             int packWeight = Convert.ToInt32(Console.ReadLine());
 
-            string result = packWeight > 50 ? "package too heavy to ship." : "your package can be shipped!"; 
-            Console.WriteLine(result);
+            if (packWeight > 50)
+            {
+                Console.WriteLine("Your package is too heavy to shipped via Package Express. Have a great day!");
+            }
             Console.ReadLine();
+            
 
             Console.WriteLine("What is the package width?");
             int packWidth = Convert.ToInt32(Console.ReadLine());

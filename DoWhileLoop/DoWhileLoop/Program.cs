@@ -41,52 +41,10 @@ namespace DoWhileLoop
             }
             //! same as isGuessed = false
             while (!isGuessed);
+            int x = 0;
+            while (x < 26)
             {
-                switch (number)
-                {
-                    case 25:
-                        Console.WriteLine("you guessed 25! sorry, try again!");
-                        Console.WriteLine("Guess a number!");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-
-                    case 12:
-                        Console.WriteLine("you guessed 12! sorry, try again!");
-                        Console.WriteLine("Guess a number!");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-                 // this result is showing up on console 3x when ran not sure why
-                    case 5:
-                        Console.WriteLine("you guessed 5! That is correct!");
-                        isGuessed = true;
-                        break;
-
-                    default:
-                        Console.WriteLine("You haven't guessed correctly yet. Keep trying!");
-                        Console.WriteLine("Guess a number!");
-                        number = Convert.ToInt32(Console.ReadLine());
-                        break;
-                }
+                Console.WriteLine("try again");
             }
-            switch(number)
-            {
-                case 25:
-                    Console.WriteLine("you guessed 25! sorry, try again!");
-                    break;
-
-                case 12:
-                    Console.WriteLine("you guessed 12! sorry, try again!");
-                    break;
+            Console.ReadLine();
                 
-                case 5:
-                    Console.WriteLine("you guessed 5! That is correct!");
-                    break;
-
-                default:
-                    Console.WriteLine("You haven't guessed correctly yet. Keep trying!");
-                    break;
-            }
-            Console.Read();
-        }
-    }
-}
