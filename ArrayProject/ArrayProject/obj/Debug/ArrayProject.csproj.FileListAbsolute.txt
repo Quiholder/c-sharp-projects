@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\bin\Debug\ArrayProject.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\bin\Debug\ArrayProject.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\bin\Debug\ArrayProject.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\obj\Debug\ArrayProject.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ArrayProject\ArrayProject\obj\Debug\ArrayProject.pdb
