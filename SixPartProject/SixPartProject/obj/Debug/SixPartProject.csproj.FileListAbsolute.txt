@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\bin\Debug\SixPartProject.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\bin\Debug\SixPartProject.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\bin\Debug\SixPartProject.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\obj\Debug\SixPartProject.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\obj\Debug\SixPartProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\obj\Debug\SixPartProject.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\SixPartProject\SixPartProject\obj\Debug\SixPartProject.pdb

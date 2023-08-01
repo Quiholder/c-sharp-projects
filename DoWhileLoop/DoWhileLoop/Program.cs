@@ -46,6 +46,7 @@ namespace DoWhileLoop
             {
                 Console.WriteLine(x);
                 x++;
+                break;
             }
             Console.ReadLine();
         }
