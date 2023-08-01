@@ -42,9 +42,14 @@ namespace DoWhileLoop
             //! same as isGuessed = false
             while (!isGuessed);
             int x = 0;
-            while (x < 26)
+            while (x < 10)
             {
-                Console.WriteLine("try again");
+                Console.WriteLine(x);
+                x++;
             }
             Console.ReadLine();
+        }
+    }
+}
+
                 

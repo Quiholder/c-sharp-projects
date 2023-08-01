@@ -9,3 +9,6 @@ C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\obj\D
 C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.CoreCompileInputs.cache
 C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.exe
 C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
