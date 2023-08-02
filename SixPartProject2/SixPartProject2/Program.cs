@@ -16,9 +16,8 @@ namespace SixPartProject2
 
             for (int i = 0; i < computers.Count; i++)
             {
-                Console.WriteLine(userInput[3]);
+                Console.WriteLine(computers.Contains(userInput)};
             }
-            Console.ReadLine();
         }
     }
 }

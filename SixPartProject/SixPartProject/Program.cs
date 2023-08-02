@@ -37,7 +37,15 @@ namespace SixPartProject
             //    Console.WriteLine(names[i]);
 
             //}
-            }
+            List<string> computers = new List<string>() { "apple", "dell", "hp", "toshiba", "ibm" };
+            Console.WriteLine("which computer brand would you prefer?");
+            string userInput = Console.ReadLine();
+
+            for (int i = 0; i < computers.Count; i++)
+            {
+                Console.WriteLine(computers.Contains(userInput)};
+        }
+    }
         }
     }
 
