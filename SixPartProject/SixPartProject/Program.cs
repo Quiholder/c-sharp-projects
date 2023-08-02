@@ -10,24 +10,35 @@ namespace SixPartProject
     {
         static void Main(string[] args)
         {
-            //Assignment Part 1
-            string[] names =  { "Quiana", "Destiny", "Alicia", "Brandon", "John" };
-            Console.WriteLine("What is your name?");
+            //Assignment  1
+            string[] names = { "Quiana", "Destiny", "Alicia", "Brandon", "John" };
+            Console.WriteLine("What is your last name?");
             string userName = Console.ReadLine();
+
+            //Assignment1 & 3:comparison operator < is used  to determine whether to continue iterating the loop.
+            for (int i = 0; i < names.Length; i++)
+            {
+                names [i] += userName;
+            }
 
             for (int i = 0; i < names.Length; i++)
             {
-                names.Append(userName);
+                Console.WriteLine(names[i]);
             }
-           
-
-            for (int i = 0; i <names.Length; i++)
+            //Assignment 3: comparison operator <= is used. 
+            for (int i = 1; i <= 4; i++)
             {
                 Console.WriteLine(names[i]);
             }
             Console.ReadLine();
+            //Assignment 2: to fix this infinite loop at i++ at end of names.Length.
+            //for (int i = 0; i < names.Length;)
+            //{
+            //    Console.WriteLine(names[i]);
 
-
+            //}
+            }
         }
     }
-}
+
+
