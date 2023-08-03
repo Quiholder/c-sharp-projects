@@ -18,7 +18,7 @@ namespace SixPartProject
             //Assignment1 & 3:comparison operator < is used  to determine whether to continue iterating the loop.
             for (int i = 0; i < names.Length; i++)
             {
-                names [i] += userName;
+                names[i] += userName;
             }
 
             for (int i = 0; i < names.Length; i++)
@@ -38,15 +38,29 @@ namespace SixPartProject
 
             //}
             List<string> computers = new List<string>() { "apple", "dell", "hp", "toshiba", "ibm" };
+            string item = "";
+            int index = computers.IndexOf(item);
             Console.WriteLine("which computer brand would you prefer?");
             string userInput = Console.ReadLine();
-
+           
             for (int i = 0; i < computers.Count; i++)
             {
-                Console.WriteLine(computers.Contains(userInput)};
+                if (index != -1)
+                {
+
+                    Console.WriteLine(String.Format("element {} is found at index {}", item, index, userInput));
+                }
+                else
+                {
+                    Console.WriteLine("element not found in the given list.");
+                }
+                
+            }
         }
     }
-        }
-    }
+}
+           
+    
+
 
 
