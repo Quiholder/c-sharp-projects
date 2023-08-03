@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

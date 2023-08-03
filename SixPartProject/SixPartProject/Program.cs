@@ -46,14 +46,14 @@ namespace SixPartProject
             {
                 if (userInput == computers[i])
                 {
-                    Console.WriteLine(userInput + "is found at index" + i);//program closes after this line.
+                    Console.WriteLine(userInput +  " is found at index "  + i);//program closes after this line.
                     break;
                 }
                 else if (!computers.Contains(userInput))
                 {
                     Console.WriteLine("element not found in the given list");
                 }
-                Console.ReadLine();
+                //Console.ReadLine();
 
                 //Assignment 5
                 List<string> computers2 = new List<string>() { "apple", "dell", "hp", "dell", "toshiba", "ibm" };
@@ -71,7 +71,7 @@ namespace SixPartProject
                     {
                         Console.WriteLine("element not found in the given list");
                     }
-                    Console.ReadLine();
+                    //Console.ReadLine();
                 }
                 //Assignment Part 6
                 List<string> computers3 = new List<string>() { "apple", "dell", "hp", "apple", "toshiba", "ibm" };
@@ -80,16 +80,17 @@ namespace SixPartProject
                 {
                     if (dupList.Contains(comp))
                     {
-                        Console.WriteLine(comp + "is a duplicate");
+                        Console.WriteLine(comp +  " is a duplicate ");
                     }
                     else
                     {
-                        Console.WriteLine(comp + "is unique.");
+                        Console.WriteLine(comp +  " is unique.");
                         dupList.Add(comp);
                     }
-                    Console.ReadLine();
+                    //Console.ReadLine();
 
                 }
+                Console.ReadLine();
             }
         }
     }
