@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Methods\Methods\obj\Debug\Methods.pdb
