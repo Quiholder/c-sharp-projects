@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\bin\Debug\ClassProject.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\bin\Debug\ClassProject.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\bin\Debug\ClassProject.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\obj\Debug\ClassProject.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\obj\Debug\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\obj\Debug\ClassProject.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\ClassProject\ClassProject\obj\Debug\ClassProject.pdb

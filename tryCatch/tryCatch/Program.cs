@@ -43,15 +43,6 @@ namespace tryCatch
             {
                 Console.ReadLine();
             }
-
-
-
-
-
-
-
-
-
         }
     }
 }
