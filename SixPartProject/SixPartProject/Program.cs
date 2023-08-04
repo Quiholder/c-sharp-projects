@@ -51,8 +51,9 @@ namespace SixPartProject
                         
                     }
                     else if (!computers.Contains(userInput))
-                    {
+                {
                         Console.WriteLine("element not found in the given list");
+                    break; //pull out loop 
                     }
                     //Console.ReadLine();
              }
@@ -71,6 +72,7 @@ namespace SixPartProject
                     else if (!computers2.Contains(userInput2))
                     {
                         Console.WriteLine("element not found in the given list");
+                    break;
                     }
                     //Console.ReadLine();
               }
