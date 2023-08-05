@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\bin\Debug\methodsandObj.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\bin\Debug\methodsandObj.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\bin\Debug\methodsandObj.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\obj\Debug\methodsandObj.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\obj\Debug\methodsandObj.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\obj\Debug\methodsandObj.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\methodsandObj\methodsandObj\obj\Debug\methodsandObj.pdb
