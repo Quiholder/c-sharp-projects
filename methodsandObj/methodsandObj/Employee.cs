@@ -8,6 +8,17 @@ namespace methodsandObj
 {
     public class Employee : Person
     {
-        public List<int> ID { get; set; }
+        public void override SayName();
+       {
+        Console.WriteLIne("Name: " + FirstName + " " + LastName);  
+       } 
     }
 }
+
+
+
+
+
+
+
+
