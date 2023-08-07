@@ -12,13 +12,13 @@ namespace MainMethod
         {
             return num + 5;
         }
-        public double Subtraction(double num)
+        public int Subtraction(decimal num)
         {
-            return num - 10.00D;
+            return Convert.ToInt32(num) - 10;
         }
-        public string Multiply(string num)
+        public int Subtraction(string num)
         {
-            return num ;
+            return Convert.ToInt32(num) - 2; ;
         }
     }
 }
