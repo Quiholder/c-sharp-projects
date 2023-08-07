@@ -14,8 +14,10 @@ namespace methodsandObj
             Employee employee = new Employee();
             employee.FirstName = ("sample");
             employee.LastName = ("student");
-            Console.WriteLine("name:");
-            string SayName = Console.ReadLine();
+           
+            Console.WriteLine("name:" + employee.FirstName + employee.LastName);
+            employee.SayName();
+            Console.ReadLine();
         }
     }
 }

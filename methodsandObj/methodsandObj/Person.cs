@@ -15,13 +15,10 @@ namespace methodsandObj
 
         public void SayName()
         {
-            foreach (string name in Persons)
-            {
-                Console.WriteLine("Name:[name]");
-            }
-
-            Console.ReadLine();
+             Console.WriteLine("Name:[name]");
         }
+       
+        
     }
 }
 
