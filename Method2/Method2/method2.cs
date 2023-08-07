@@ -8,7 +8,7 @@ namespace Method2
 {
     class method2
     {
-        public int Addition(int num1 = 5, int num2 = 8)
+        public int Addition(int num1 =5, int num2 =8)
         {
             return num1 + num2;
         }

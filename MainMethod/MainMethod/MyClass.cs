@@ -14,7 +14,7 @@ namespace MainMethod
         }
         public double Subtraction(double num)
         {
-            return num - 10.00;
+            return num - 10.00D;
         }
         public string Multiply(string num)
         {

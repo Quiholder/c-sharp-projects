@@ -23,7 +23,7 @@ namespace MainMethod
 
             Console.WriteLine(obj.Subtraction(number1));
             Console.ReadLine();
-
+            //not sure how to pass in a string that equates to a number dont think this is correct. 
             Console.WriteLine("Spell out a number");
             string number2 = Convert.ToString(Console.ReadLine());
 

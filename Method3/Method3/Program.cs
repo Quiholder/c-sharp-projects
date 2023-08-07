@@ -10,7 +10,12 @@ namespace Method3
     {
         static void Main(string[] args)
         {
-           
+            Method3 obj = new Method3();
+
+            obj.Addition(8 + 7);
+            obj.Addition();
+            Console.ReadLine();
+
         }
     }
 }

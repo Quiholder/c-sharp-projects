@@ -8,9 +8,17 @@ namespace Method3
 {
     class Method3
     {
-        public void Addition(int num)
+        public void Addition(int num1 = 9, int num2 = 5)
         {
-            return void;
+            Console.WriteLine(num1 + 2 + "and" + num2);
+        }
+        
+       
+        
+            
+     
+
+          
 
     }
 }
