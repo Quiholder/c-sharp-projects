@@ -14,10 +14,7 @@ namespace Method2
             Console.WriteLine("Please enter a number...");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Please enter another number...");
-            int number2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(obj.Addition(number + number2));
-            Console.ReadLine();
+            
             try
             {
                 Console.WriteLine("Please enter another number but it is optional: ");
