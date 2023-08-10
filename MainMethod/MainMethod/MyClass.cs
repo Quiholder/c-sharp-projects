@@ -8,9 +8,9 @@ namespace MainMethod
 {
     class MyClass
     {
-        public int Addition(int num)
+        public int Subtraction(int num)
         {
-            return num + 5;
+            return num - 5;
         }
         public int Subtraction(decimal num)
         {

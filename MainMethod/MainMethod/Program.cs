@@ -14,7 +14,7 @@ namespace MainMethod
             Console.WriteLine("Please enter a number...");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(obj.Addition(number));
+            Console.WriteLine(obj.Subtraction(number));
 
             Console.ReadLine();
 
