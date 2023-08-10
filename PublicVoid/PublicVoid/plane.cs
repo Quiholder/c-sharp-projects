@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodClass
+namespace PublicVoid
 {
-    class MethodClass
-
+    public static class plane
     {
-        public void Divide(int num);
+        public static void MyStaticMethod()
         {
-            Console.WriteLine(num / 2);
+            Console.WriteLine("Hello,Goodbye!");
+
         }
     }
 }

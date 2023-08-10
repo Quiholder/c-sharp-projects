@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\bin\Debug\PublicVoid.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\bin\Debug\PublicVoid.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\bin\Debug\PublicVoid.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\obj\Debug\PublicVoid.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\obj\Debug\PublicVoid.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\obj\Debug\PublicVoid.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\PublicVoid\PublicVoid\obj\Debug\PublicVoid.pdb

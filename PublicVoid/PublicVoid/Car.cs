@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodClass
+namespace PublicVoid
 {
-    class MethodClass
-
+    class Car
     {
-        public void Divide(int num);
+        public void Divide( int num)
         {
             Console.WriteLine(num / 2);
+        }
+        public int Divide(int num)
+        {
+            return num / 2;
         }
     }
 }
