@@ -10,7 +10,7 @@ namespace methodsandObj
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+           // Person person = new Person();
             Employee employee = new Employee();
             employee.FirstName = ("sample");
             employee.LastName = ("student");

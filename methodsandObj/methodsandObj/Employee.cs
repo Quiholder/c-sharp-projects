@@ -8,9 +8,9 @@ namespace methodsandObj
 {
     public class Employee : Person
     {
-        public void override SayName();
+        public override void SayName();
        {
-        Console.WriteLIne("Name: " + FirstName + " " + LastName);  
+        Console.WriteLine("Name: " + FirstName + " " + LastName);  
        } 
     }
 }
