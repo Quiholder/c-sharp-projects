@@ -19,7 +19,7 @@ namespace PublicVoid
 
             // passing the reference to the number variable in Main to the class method. 
             int number = 0;
-            obj.Divide(out number);
+            obj.Divide(out number, out int num2);
 
         }
     }
