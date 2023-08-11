@@ -12,13 +12,19 @@ namespace methodsandObj
        {
         Console.WriteLine("Name: " + FirstName + " " + LastName);  
        }
-    public void Quit(Employee employee);
-    {
+    Iquittable employee = new Employee;
+    public void Quit();
+    Console.WriteLine("i quit"));
+    Console.ReadLine();
 
-    }
-
+        
     }
 }
+
+    
+
+    
+
 
 
 
