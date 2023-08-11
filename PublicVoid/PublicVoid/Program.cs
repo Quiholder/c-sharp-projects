@@ -21,6 +21,8 @@ namespace PublicVoid
             // passing the reference to the number variable in Main to the class method. 
             int number1 = 0;
             obj.Divide(number, out number1); //when calling the Divide method with two parameters, the first parameter needs to be an integer and the second an out integer. 
+            int result = obj.Divide(number, out number1);
+            Console.WriteLine("The results are {0} and {1}", result, number1);
             Console.ReadLine();
 
         }
