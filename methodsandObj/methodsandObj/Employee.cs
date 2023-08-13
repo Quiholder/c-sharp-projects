@@ -8,18 +8,19 @@ namespace methodsandObj
 {
     public class Employee : Person, IQuittable
     {
-        public override void SayName();
-       {
-        Console.WriteLine("Name: " + FirstName + " " + LastName);  
-       }
-    Iquittable employee = new Employee;
-    public void Quit();
-    Console.WriteLine("i quit"));
-    Console.ReadLine();
+        //public override void SayName();
+        //{   
+        //    Console.WriteLine("Name: " + FirstName + " " + LastName);
+        //}
+    
 
-        
+        public void Quit()
+        {
+            Console.WriteLine("i quit");
+        }
     }
 }
+    
 
     
 

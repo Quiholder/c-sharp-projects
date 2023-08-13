@@ -13,7 +13,7 @@ namespace methodsandObj
 
     public string LastName { get; set; }
 
-    public abstract void SayName();
+    //public abstract void SayName();
     }
 }
 

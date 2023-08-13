@@ -8,7 +8,7 @@ namespace methodsandObj
 {
     interface IQuittable
     {
-        void Quit(Employee employee);
+        void Quit(); //this method is declared here but will be implemented in the Employee class
    
 
     }
