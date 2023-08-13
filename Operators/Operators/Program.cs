@@ -11,9 +11,10 @@ namespace Operators
         static void Main(string[] args)
         {
             Employee employee = new Employee();
+            ID id = new ID();
             employee.ID = "A1";
             employee.FirstName = "Carol";
-
+            employee = employee == id;
         }
     }
 }

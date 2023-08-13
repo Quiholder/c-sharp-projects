@@ -1,0 +1,2 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
