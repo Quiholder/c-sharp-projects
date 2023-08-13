@@ -10,6 +10,10 @@ namespace Operators
     {
         static void Main(string[] args)
         {
+            Employee employee = new Employee();
+            employee.ID = "A1";
+            employee.FirstName = "Carol";
+
         }
     }
 }

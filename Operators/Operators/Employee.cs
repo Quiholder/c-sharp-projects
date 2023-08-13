@@ -8,9 +8,17 @@ namespace Operators
 {
     class Employee
     {
-        public List string<employees> {get; set;}
-    public string ID = (FirstName, LastName);
+        public List<string> employees { get; set; }
+        public string FirstName { get; set; }
 
-    public string Last
+        public string LastName { get; set; }
+
+        public string ID { get; set; }
+
+        public static Employee operator= (Employee employee, ID id)
+        {
+            employee.ID.Equals(id);
+            return employee;
+        }
     }
 }

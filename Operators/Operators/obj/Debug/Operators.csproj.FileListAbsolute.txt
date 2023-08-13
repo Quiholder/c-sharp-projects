@@ -1,0 +1,2 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
