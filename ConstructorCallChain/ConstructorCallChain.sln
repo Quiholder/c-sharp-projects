@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorCallChain", "ConstructorCallChain\ConstructorCallChain.csproj", "{003E121F-5FE4-4BD0-BD8F-49EC5AF8A7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003E121F-5FE4-4BD0-BD8F-49EC5AF8A7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003E121F-5FE4-4BD0-BD8F-49EC5AF8A7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003E121F-5FE4-4BD0-BD8F-49EC5AF8A7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003E121F-5FE4-4BD0-BD8F-49EC5AF8A7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD7A8F39-4DB1-4C77-85A8-93A54236E1C8}
+	EndGlobalSection
+EndGlobal
