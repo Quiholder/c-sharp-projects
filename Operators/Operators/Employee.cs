@@ -8,17 +8,25 @@ namespace Operators
 {
     class Employee
     {
+        //create an employee class with id firstname ans lastname properties 
         public List<string> employees { get; set; }
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
 
-        public string ID { get; set; }
+        public int ID { get; set; }
 
-        public static Employee operator= (Employee employee, ID id)
+        //overloaded == operator passing in two Employee objects
+        public static bool operator== (Employee employee, Employee employee2)
         {
-            employee.ID.Equals(id);
-            return employee;
+            //compares each Employee objects by compaing there IDS 
+            return employee.ID == employee2.ID;
         }
+        public static bool operator!= (Employee employee, Employee employee2) //overload !=
+        {
+            //Compare each Employee objects by comparing IDs.
+            return employee.ID != employee2.ID;
+        } 
+        
     }
 }
