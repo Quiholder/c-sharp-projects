@@ -8,16 +8,17 @@ namespace ConstrCallChain
 {
     class Class1
     {
+        //Chain two constructors together.
         public Class1(string name) : this (name, 100)
         {
         }
         public Class1(string name, int newBalance)
         {
-            Quarter = new List<Card>();
             Money = newBalance;
             Name = name;
         }
-        public List<Card> Quarter { get; set; }
+        //Name property declaration
+        public string Name { get; set; }
         public int Money { get; set; }
     }
 }

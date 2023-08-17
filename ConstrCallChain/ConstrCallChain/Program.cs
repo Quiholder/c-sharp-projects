@@ -10,6 +10,7 @@ namespace ConstrCallChain
     {
         static void Main(string[] args)
         {
+            //Create a const variable and var 
             var newClass1 = new Class1("qui");
             const string storeName = "Walmart";
 
