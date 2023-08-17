@@ -1,2 +1,7 @@
 C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\obj\Debug\Lamda.csproj.AssemblyReference.cache
 C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\obj\Debug\Lamda.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\bin\Debug\Lamda.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\bin\Debug\Lamda.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\bin\Debug\Lamda.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\obj\Debug\Lamda.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\Lamda\Lamda\obj\Debug\Lamda.pdb

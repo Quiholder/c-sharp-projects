@@ -10,7 +10,7 @@ namespace Lamda
     {
         static void Main(string[] args)
         {
-            
+
             List<Employee> empList = new List<Employee>()
             {
                 new Employee(){Id = 1, FirstName = "Anthony", LastName = "Davis"},
@@ -24,7 +24,7 @@ namespace Lamda
                 new Employee(){Id = 9, FirstName = "Joe", LastName = "Keys"},
                 new Employee(){Id = 10, FirstName = "David", LastName = "Smalls"}
 
-            }
+            };
 
             //Using a foreach loop, create a new list of all employees with the first name “Joe”. In your comparison statement, remember to reference the property of the object you are checking
             List<Employee> joeList = new List<Employee>();
