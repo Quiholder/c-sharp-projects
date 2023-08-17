@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\bin\Debug\TryCatchException.exe.config
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\bin\Debug\TryCatchException.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\bin\Debug\TryCatchException.pdb
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\obj\Debug\TryCatchException.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\obj\Debug\TryCatchException.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\obj\Debug\TryCatchException.exe
+C:\Users\Student\Documents\GitHub\c-sharp-projects\TryCatchException\TryCatchException\obj\Debug\TryCatchException.pdb
