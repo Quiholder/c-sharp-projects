@@ -8,6 +8,7 @@ namespace Lamda
 {
     class Employee
     {
+        ///list with properties firstname,lastname and id 
         public List<string> Persons { get; set; }
         public string FirstName { get; set; }
 
