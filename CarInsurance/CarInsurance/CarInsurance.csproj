@@ -129,6 +129,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\InsureeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -147,7 +148,22 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>InsuranceEntities.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Table.cs">
+    <Compile Include="Models\InsuranceEntity.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InsuranceEntity.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\InsuranceEntity.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InsuranceEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\InsuranceEntity.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InsuranceEntity.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Insurees.cs">
       <DependentUpon>InsuranceEntities.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -175,6 +191,16 @@
       <DependentUpon>InsuranceEntities.edmx</DependentUpon>
       <LastGenOutput>InsuranceEntities.cs</LastGenOutput>
     </Content>
+    <Content Include="Models\InsuranceEntity.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>InsuranceEntity.edmx</DependentUpon>
+      <LastGenOutput>InsuranceEntity.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\InsuranceEntity.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>InsuranceEntity.edmx</DependentUpon>
+      <LastGenOutput>InsuranceEntity.cs</LastGenOutput>
+    </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <EntityDeploy Include="Models\InsuranceEntities.edmx">
@@ -183,6 +209,13 @@
     </EntityDeploy>
     <Content Include="Models\InsuranceEntities.edmx.diagram">
       <DependentUpon>InsuranceEntities.edmx</DependentUpon>
+    </Content>
+    <EntityDeploy Include="Models\InsuranceEntity.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>InsuranceEntity.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\InsuranceEntity.edmx.diagram">
+      <DependentUpon>InsuranceEntity.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -209,6 +242,11 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Insuree\Create.cshtml" />
+    <Content Include="Views\Insuree\Delete.cshtml" />
+    <Content Include="Views\Insuree\Details.cshtml" />
+    <Content Include="Views\Insuree\Edit.cshtml" />
+    <Content Include="Views\Insuree\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
