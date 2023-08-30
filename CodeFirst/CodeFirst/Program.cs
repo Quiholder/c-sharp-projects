@@ -11,22 +11,22 @@ namespace CodeFirstNewDatabaseSample
     {
         static void Main(string[] args)
         {
-            using (var db = new BloggingContext())
+            using (var db = new StudentContext())
             {
-                // Create and save a new Blog
-                Console.Write("Enter a name for a new Blog: ");
+                // Create and save a new student
+                Console.Write("Enter a name for a student: ");
                 var name = Console.ReadLine();
 
-                var blog = new Blog { Name = name };
-                db.Blogs.Add(blog);
+                var Student = new Student { Name = name };
+                db.Students.Add(blog);
                 db.SaveChanges();
 
-                // Display all Blogs from the database
-                var query = from b in db.Blogs
+                // Display all students from the database
+                var query = from b in db.Students
                             orderby b.Name
                             select b;
 
-                Console.WriteLine("All blogs in the database:");
+                Console.WriteLine("All students in the database:");
                 foreach (var item in query)
                 {
                     Console.WriteLine(item.Name);
@@ -53,13 +53,8 @@ namespace CodeFirstNewDatabaseSample
         public string Title { get; set; }
         public string Content { get; set; }
 
-        public int BlogId { get; set; }
-        public virtual Blog Blog { get; set; }
+       
     }
 
-    public class BloggingContext : DbContext
-    {
-        public DbSet<Blog> Blogs { get; set; }
-        public DbSet<Post> Posts { get; set; }
-    }
+   
 }
