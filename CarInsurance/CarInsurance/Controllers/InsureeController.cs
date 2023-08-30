@@ -71,7 +71,7 @@ namespace CarInsurance.Controllers
                 {
                     insurees.Quote += 25;
                 }
-                if (insurees.CarMake = "Porsche" && insurees.CarModel = "911 Carrera")
+                if (insurees.CarMake == "Porsche" && insurees.CarModel == "911 Carrera")
                 {
                     insurees.Quote += 50;
                 }
@@ -79,18 +79,18 @@ namespace CarInsurance.Controllers
                 {
                     insurees.Quote += 10;
                 }
-                insurees.DUI = true;
+                if(insurees.DUI == true)
                 {
                     insurees.Quote += 25;
                 }
-                insurees.CoverageType = Full Coverage;
+                if(insurees.CoverageType == true)
                 {
                     insurees.Quote += 50;
                 }
 
 
 
-                 db.Insurees.Add(insurees);
+                db.Insurees.Add(insurees);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
