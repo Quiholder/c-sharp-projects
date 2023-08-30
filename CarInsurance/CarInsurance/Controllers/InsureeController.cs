@@ -50,7 +50,47 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Insurees.Add(insurees);
+                insurees.Quote = 50m;
+                if(DateTime.Now.Year - insurees.DateOfBirth.Year <= 18)
+                {
+                    insurees.Quote += 100;
+                }
+                if(DateTime.Now.Year - insurees.DateOfBirth.Year >= 19 && DateTime.Now.Year - insurees.DateOfBirth.Year <= 25)
+                {
+                    insurees.Quote += 50;
+                }
+                if (DateTime.Now.Year - insurees.DateOfBirth.Year >= 26)
+                {
+                    insurees.Quote += 25;
+                }
+                if (DateTime.Now.Year - insurees.CarYear <= 2000)
+                {
+                    insurees.Quote += 25;
+                }
+                if (DateTime.Now.Year - insurees.CarYear >= 2015)
+                {
+                    insurees.Quote += 25;
+                }
+                if (insurees.CarMake = "Porsche" && insurees.CarModel = "911 Carrera")
+                {
+                    insurees.Quote += 50;
+                }
+                if(insurees.SpeedingTickets >= 1)
+                {
+                    insurees.Quote += 10;
+                }
+                insurees.DUI = true;
+                {
+                    insurees.Quote += 25;
+                }
+                insurees.CoverageType = Full Coverage;
+                {
+                    insurees.Quote += 50;
+                }
+
+
+
+                 db.Insurees.Add(insurees);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
