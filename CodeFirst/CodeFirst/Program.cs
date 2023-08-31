@@ -18,7 +18,7 @@ namespace CodeFirstNewDatabaseSample
                 var name = Console.ReadLine();
 
                 var Student = new Student { Name = name };
-                db.Students.Add(blog);
+                db.Students.Add(Student);
                 db.SaveChanges();
 
                 // Display all students from the database
@@ -37,24 +37,13 @@ namespace CodeFirstNewDatabaseSample
             }
         }
     }
-    
-
-    public class Blog
+    public class Student
     {
-        public int BlogId { get; set; }
+        public int StudentId { get; set; }
         public string Name { get; set; }
-
-        public virtual List<Post> Posts { get; set; }
-    }
-
-    public class Post
+     }
+    public class StudentContext : DbContext
     {
-        public int PostId { get; set; }
-        public string Title { get; set; }
-        public string Content { get; set; }
-
-       
+        public DbSet<Student> Students { get; set; }
     }
-
-   
 }
