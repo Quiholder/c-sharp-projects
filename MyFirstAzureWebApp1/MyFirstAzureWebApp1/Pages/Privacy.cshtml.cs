@@ -14,8 +14,8 @@ namespace MyFirstAzureWebApp1.Pages
 
         public void OnGet()
         {
-            string dateTime = DateTime.Now.ToShortDateString();
-            ViewData["TimeStamp"] = dateTime;
+            string dateTime = DateTime.Now.ToString();
+            
             
         }
     }
