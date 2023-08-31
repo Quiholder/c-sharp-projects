@@ -14,6 +14,10 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
         // GET: Insuree
         public ActionResult Index()
         {
@@ -77,15 +81,15 @@ namespace CarInsurance.Controllers
                 }
                 if(insurees.SpeedingTickets >= 1)
                 {
-                    insurees.Quote += 10;
+                    insurees.Quote += insurees.SpeedingTickets * 10;
                 }
                 if(insurees.DUI == true)
                 {
-                    insurees.Quote += 25;
+                    insurees.Quote *= 1.25m;
                 }
                 if(insurees.CoverageType == true)
                 {
-                    insurees.Quote += 50;
+                    insurees.Quote *= 1.5m;
                 }
 
 
